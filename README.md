@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-This is Seonki Nam from developer's kindergarten🌱🌱🌱
+This is Seonki Nam 🌱🌱🌱
 
 ## Contect Me
 
