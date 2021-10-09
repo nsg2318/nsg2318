@@ -1,6 +1,7 @@
 ## Hello World 👋
 
 This is Seonki Nam 🌱🌱🌱
+
 Data Architect → Backend Developer
 
 ## Contect Me
